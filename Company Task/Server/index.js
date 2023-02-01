@@ -37,7 +37,7 @@ const UserModel = mongoose.model("users",UserSchema);
 let data = [
     {
         name:"swayam",
-        email:"sushovan.paul@gmail.com",
+        email:"jeon.jungkook@gmail.com",
         phone:8580295988,
         address:"107 Ramakrishna Nagar",
     },
@@ -50,7 +50,7 @@ let data = [
     
     {
         name:"Sushmita",
-        email:"Swayam.paul@gmail.com",
+        email:"Swayam.jeon@gmail.com",
         phone:8580295988,
         address:"107 Lalpur CHowk krishna Nagar Ranchi",
     },
