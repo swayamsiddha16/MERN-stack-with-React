@@ -29,27 +29,26 @@ Once every prerequisite is fullfilled follow the below steps.
 
 Hurray!!! the frontend is running
 
+## Open another terminal and navigate to MERN-stack-with-React/Company Task
 
-4. Let's start the Backend Service so that the frontend can interact with the the APIs
+## Let's start the Backend Service so that the frontend can interact with the the APIs
 
-``` cd .. ``` to go back to the main directory
-
-5. Navigate to the `/Server` 
+4. Navigate to the `/Server` 
 
 ``` cd Server```
 
-6. To install packages run 
+5. To install packages run :
 
 
 ```npm install```
 
-7. Once the packages have installed, start the server by running:
+6. Once the packages have installed, start the server by running:
 
 ``` node index.js```
 
 
 
-8. Open a browser and navigate to `http://localhost:3000/`
+7. Open a browser and navigate to `http://localhost:3000/`
 
-10. You are good to test the project 
+8. You are good to test the project 
 
